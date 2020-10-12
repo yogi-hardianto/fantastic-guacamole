@@ -7,3 +7,4 @@ XOXOXO
 <br>
 <h3>4. Andre Setiawan <h3>
   </br>
+  <center> Absen e tak edit </center>
